@@ -19,3 +19,7 @@ v4.1.2_40545
 ## Purpose
 
 This repository is maintained as a personal archive and backup of the included files.
+
+## Notes
+
+The kernels and SukiSU Ultra Manager included in this repository were used as the reference testing platform for the development of my other modules.
